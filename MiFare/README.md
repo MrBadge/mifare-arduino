@@ -9,7 +9,8 @@ It has methods to read and write MiFare cards.
 The module I used is here : http://www.nskelectronics.com/mifare_rfid_rw_.html
 
 ## Download
-To download, click the "Download Zip" button to the right. Check that the MiFare folder contains MiFare.cpp and MiFare.h
+To download, click here: https://github.com/ankitdaf/mifare-arduino/zipball/master/
+(Github has disabled zip downloads, it seems)
 
 
 ## Device specific information
